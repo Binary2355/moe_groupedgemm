@@ -1,0 +1,10 @@
+*.run
+*.egg-info
+*/build/
+build/
+dist/
+*.pyc
+*/__pycache__/
+*.log
+*.ncu-rep
+*.so
